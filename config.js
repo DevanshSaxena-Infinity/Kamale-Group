@@ -1,7 +1,7 @@
 /* Kamale Group site settings. This is the only file you edit for your API key, Drive folders and links. */
 /* 1) Paste your Google Drive API key between the quotes.
    2) SOURCES lists your Drive folders. To add a folder from any other Drive, add one more line like the example. */
-var CONFIG={apiKey:""};
+var CONFIG={apiKey:"AIzaSyC8ztYdOyEqODRI23s-09pVDUiicawpZ8g"};
 var SOURCES=[
  {folder:"https://drive.google.com/drive/folders/1gw3v-ZYDJF-umexFCrRc2_DsvZVmzdbL"},
  // {folder:"PASTE ANOTHER FOLDER LINK HERE", name:"Tab name"},   <- whole folder shown as one tab
